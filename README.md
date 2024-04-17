@@ -1,4 +1,4 @@
-# HumorBox
+# Humor Box
 
 Humor Box - a WearOS application designed to deliver a wide range of jokes to brighten your day! Whether you're in need of a general laugh or a witty programming jest, Humor Box has got you covered. It utilizes the [Official Joke API](https://github.com/15Dkatz/official_joke_api) to fetch jokes from various categories.
 
