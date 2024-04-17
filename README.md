@@ -24,6 +24,8 @@ To install Humor Box on your WearOS device, follow these steps:
 2. Transfer the APK file to your WearOS device ([tutorial](https://faceoff.watch/)).
 3. Once installed, open Humor Box and start enjoying the jokes!
 
+While the installation process seems tedious, I will definitely make this easier in a near future - by publishing the app on Google Play once I pack it with enough features.
+
 ## Feedback and Contributions
 
 I truly welcome your feedback and contributions to make Humor Box even better! If you encounter any issues, have suggestions for improvement, or want to contribute code, please open an issue or submit a pull request on [GitHub](https://github.com/Rahyan/HumorBox).
